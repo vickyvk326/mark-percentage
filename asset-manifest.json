@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mark-percentage/static/css/main.073c9b0a.css",
+    "main.js": "/mark-percentage/static/js/main.b5a85444.js",
+    "static/js/787.4de16d31.chunk.js": "/mark-percentage/static/js/787.4de16d31.chunk.js",
+    "index.html": "/mark-percentage/index.html",
+    "main.073c9b0a.css.map": "/mark-percentage/static/css/main.073c9b0a.css.map",
+    "main.b5a85444.js.map": "/mark-percentage/static/js/main.b5a85444.js.map",
+    "787.4de16d31.chunk.js.map": "/mark-percentage/static/js/787.4de16d31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b5a85444.js"
+  ]
+}
